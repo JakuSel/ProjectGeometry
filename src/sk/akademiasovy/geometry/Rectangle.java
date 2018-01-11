@@ -46,7 +46,14 @@ public class Rectangle {
     }
 
     public double getDiagonal(){
-        double diagonal=Math.sqrt(a+b);
+        double diagonal=Math.sqrt(a*a+b*b);
         return diagonal;
+    }
+    //transponovany obdlžnik
+    public void transpose(){
+        double temp;
+        temp=a;
+        a=b;
+        b=temp;
     }
 }
