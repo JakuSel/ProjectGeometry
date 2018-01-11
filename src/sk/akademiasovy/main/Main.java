@@ -2,6 +2,7 @@ package sk.akademiasovy.main;
 
 import sk.akademiasovy.geometry.Rectangle;
 import sk.akademiasovy.geometry.Square;
+import sk.akademiasovy.geometry.Triangle;
 
 //trieda main
 public class Main {
@@ -30,6 +31,10 @@ public static void main(String[] args) {
     System.out.println("Area of rectangle 1 is : "+obdlznik1.getArea());
     System.out.println("Perimeter of rectangle 1 is : "+obdlznik1.getPerimeter());
     System.out.println("Diagonal of rectangle 1 is : "+obdlznik1.getDiagonal());
+
+    Triangle trojuholník1=new Triangle(5.6,6.9,6.3);
+
+    System.out.println("Perimeter of triangle 1 is : "+trojuholník1.getPerimeter());
 
 }
 }

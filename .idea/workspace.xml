@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f1423b5-4e53-4714-bf0d-10b8b35b2fdc" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/src/sk/akademiasovy/geometry/Rectangle.java" afterPath="$PROJECT_DIR$/src/sk/akademiasovy/geometry/Rectangle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/sk/akademiasovy/geometry/Triangle.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGeometry/sk/akademiasovy/geometry/Rectangle.class" afterPath="$PROJECT_DIR$/out/production/ProjectGeometry/sk/akademiasovy/geometry/Rectangle.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGeometry/sk/akademiasovy/main/Main.class" afterPath="$PROJECT_DIR$/out/production/ProjectGeometry/sk/akademiasovy/main/Main.class" />
+      <change beforePath="$PROJECT_DIR$/src/sk/akademiasovy/main/Main.java" afterPath="$PROJECT_DIR$/src/sk/akademiasovy/main/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sk/akademiasovy/geometry/Rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="53" column="14" lean-forward="false" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+            <state relative-caret-position="20">
+              <caret line="34" column="12" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
               <folding>
                 <element signature="e#147#148#0" expanded="true" />
                 <element signature="e#171#172#0" expanded="true" />
@@ -63,11 +66,24 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sk/akademiasovy/geometry/Triangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <folding>
+                <element signature="e#320#321#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sk/akademiasovy/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="78" lean-forward="false" selection-start-line="31" selection-start-column="78" selection-end-line="31" selection-end-column="78" />
+            <state relative-caret-position="445">
+              <caret line="36" column="82" lean-forward="false" selection-start-line="36" selection-start-column="82" selection-end-line="36" selection-end-column="82" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,12 +112,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/sk/akademiasovy/geometry/Square.java" />
-        <option value="$PROJECT_DIR$/src/sk/akademiasovy/main/Main.java" />
         <option value="$PROJECT_DIR$/src/sk/akademiasovy/geometry/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/sk/akademiasovy/geometry/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/sk/akademiasovy/main/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="28" />
     <option name="y" value="29" />
     <option name="width" value="1260" />
@@ -133,6 +150,41 @@
             <path>
               <item name="ProjectGeometry" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProjectGeometry" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectGeometry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectGeometry" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectGeometry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectGeometry" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectGeometry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectGeometry" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="ProjectGeometry" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectGeometry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectGeometry" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="ProjectGeometry" type="462c0819:PsiDirectoryNode" />
+              <item name="sk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectGeometry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectGeometry" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="ProjectGeometry" type="462c0819:PsiDirectoryNode" />
+              <item name="sk" type="462c0819:PsiDirectoryNode" />
+              <item name="akademiasovy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ProjectGeometry" type="b2602c69:ProjectViewProjectNode" />
@@ -306,7 +358,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -368,20 +420,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sk/akademiasovy/main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="78" lean-forward="false" selection-start-line="31" selection-start-column="78" selection-end-line="31" selection-end-column="78" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sk/akademiasovy/geometry/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="53" column="14" lean-forward="false" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+        <state relative-caret-position="20">
+          <caret line="34" column="12" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
           <folding>
             <element signature="e#147#148#0" expanded="true" />
             <element signature="e#171#172#0" expanded="true" />
@@ -395,6 +437,27 @@
             <element signature="e#646#647#0" expanded="true" />
             <element signature="e#681#682#0" expanded="true" />
             <element signature="e#711#712#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/akademiasovy/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="36" column="82" lean-forward="false" selection-start-line="36" selection-start-column="82" selection-end-line="36" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/akademiasovy/geometry/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
           </folding>
         </state>
       </provider>
