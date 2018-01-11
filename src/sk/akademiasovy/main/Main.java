@@ -32,9 +32,15 @@ public static void main(String[] args) {
     System.out.println("Perimeter of rectangle 1 is : "+obdlznik1.getPerimeter());
     System.out.println("Diagonal of rectangle 1 is : "+obdlznik1.getDiagonal());
 
-    Triangle trojuholník1=new Triangle(5.6,6.9,6.3);
+    Triangle trojuholník1=new Triangle(3,4,5);
 
     System.out.println("Perimeter of triangle 1 is : "+trojuholník1.getPerimeter());
+    System.out.println("Area of triangle 1 is : "+trojuholník1.getArea());
+    System.out.println(trojuholník1.isRightTriangle());
+
+    System.out.println(trojuholník1.existTriangle());
+    System.out.println(trojuholník1.equilateralTriangle());
+    System.out.println(trojuholník1.isoscelesTriangle());
 
 }
 }
